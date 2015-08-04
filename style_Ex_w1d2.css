@@ -1,0 +1,23 @@
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+article p{
+  background-color: yellow;
+  color: green;
+}
+aside section h4 {
+  text-align: right;
+}
+section h2 {
+  text-align: right;
+}
+section h3 {
+  text-align: right;
+}
+header h1 {
+  font-size: 3em;
+  background-color: yellow;
+}
