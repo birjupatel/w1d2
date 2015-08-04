@@ -21,3 +21,14 @@ header h1 {
   font-size: 3em;
   background-color: yellow;
 }
+aside section p {
+  color: white;
+}
+section .Fav_Colour {
+  color: #B85E23;
+  font-size: 2em;
+}
+ul {
+  color: #E6104D;
+  font-size: 3em;
+}
